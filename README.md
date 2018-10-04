@@ -1,3 +1,3 @@
 # Suzuka-ShaderLab
 Learning and Creating Shaders
-![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/DissolveShader.gif)
+![Alt Text](https://github.com/{user}/{repo}/raw/master/Images/DissolveShader.gif)
