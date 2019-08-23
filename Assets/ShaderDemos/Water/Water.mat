@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: 4800000, guid: 575fd6c87d3128741b2e1e34184a7c0b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: 85d394aee4948a347a0b98b7facff1d4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 6a05630a7ebd8e0458a57b739dfe45ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: 06ded82984432e44299b3e6332aef602, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _WaveTex:
+        m_Texture: {fileID: 2800000, guid: 6c3409cb36c36004a9d85f89e973b28a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _DeepRange: 17
+    - _Distortion: -80.98
+    - _FlowSpeed: 1.3
+    - _FresnelScale: 1
+    - _Gloss: 0.5
+    - _Glossiness: 0.5
+    - _Metallic: 0
+    - _NormalIntensity: 0.64
+    - _Refraction: 0.36
+    - _Resolution: 1.5
+    - _Specular: 1.9
+    - _Transparency: 20
+    - _WaveDelta: 5.88
+    - _WaveOffset: 0.8
+    - _WaveRange: 4.77
+    - _WaveSpeed: 5.38
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DeepColor: {r: 0.26633143, g: 0.4983259, b: 0.8962264, a: 1}
+    - _ShallowColor: {r: 0.4764151, g: 0.8152054, b: 1, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}

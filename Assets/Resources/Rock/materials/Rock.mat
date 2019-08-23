@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rock
+  m_Shader: {fileID: 4800000, guid: 94bec2dad413d493fb4fcd71d93d3e2b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: f330c95dd53beab42b67abfa8f312297, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a86712c067161d34c95222cd04904fef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ramp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SnowRamp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Height: 1
+    - _RimPower: 3
+    - _Shininess: 0.078125
+    - _SnowSize: 0.29
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SnowAngle: {r: 0, g: 1, b: 0, a: 1}
+    - _SnowColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SnowVector: {r: 0, g: 1, b: 0, a: 1}
+    - _SpecColor: {r: 0.2352941, g: 0.24048442, b: 0.24048442, a: 1}
+    - _TColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _TopColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
