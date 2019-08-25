@@ -41,21 +41,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _DeepRange: 17
-    - _Distortion: -80.98
+    - _Distortion: 0
     - _FlowSpeed: 1.3
-    - _FresnelScale: 1
-    - _Gloss: 0.5
+    - _FresnelScale: 0.67
+    - _Gloss: 0.7
     - _Glossiness: 0.5
     - _Metallic: 0
     - _NormalIntensity: 0.64
     - _Refraction: 0.36
-    - _Resolution: 1.5
-    - _Specular: 1.9
-    - _Transparency: 20
-    - _WaveDelta: 5.88
-    - _WaveOffset: 0.8
-    - _WaveRange: 4.77
-    - _WaveSpeed: 5.38
+    - _Resolution: 0.8
+    - _Specular: 1.7
+    - _Transparency: 11
+    - _WaveDelta: 1
+    - _WaveOffset: 1
+    - _WaveRange: 5.48
+    - _WaveSpeed: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _DeepColor: {r: 0.26633143, g: 0.4983259, b: 0.8962264, a: 1}
